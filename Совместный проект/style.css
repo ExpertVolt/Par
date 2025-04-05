@@ -1,0 +1,156 @@
+body    {
+    background-color: rgb(11, 180, 247);
+    width: 100%;
+    background-image: url('img/20200123094014_Oblaka_7-023.jpg');
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+    padding-left: 30px;
+    margin-top: -50px;
+}
+
+
+.btn-info{
+    width: 130px;
+    height: 70px;
+    background-color: rgb(217, 217, 217);
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border:2px solid black;
+    border-radius:20px;
+    
+}
+
+.btn-Pixel{
+    width: 130px;
+    height: 70px;
+    background-color: rgb(217, 217, 217);
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border:2px solid black;
+    border-radius:20px;
+}
+
+.btn-Random{
+    width: 130px;
+    height: 70px;
+    background-color: rgb(217, 217, 217);
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border:2px solid black;
+    border-radius:20px;
+}
+
+
+.field{
+    background-color: rgb(0, 0, 0);
+    width: 1860px;
+    height: 2px;
+    margin-top: 2px;
+}    
+
+.all-btn{
+    padding-left: 480px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.random{
+    background-color: rgb(217, 217, 217);
+    width: 480px;
+    height: 520px;
+    margin-left: 680px;
+    margin-top: 100px;
+    border:2px solid black;
+    border-radius:20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+.generation{
+    width: 430px;
+    height: 100px;
+    background-color: #A5A5A5;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border:2px solid black;
+    border-radius:20px;
+}
+
+
+.number{
+    background-color: #A5A5A5;
+    width: 200px;
+    height: 200px;
+    border:2px solid black;
+    margin-left: 10px;
+}
+
+.input1{
+    background-color: #A5A5A5;
+    width: 100px;
+    height: 50px;
+    border:2px solid black;
+    border-radius:10px;
+    
+}
+
+.input2{
+    background-color: #A5A5A5;
+    width: 100px;
+    height: 50px;
+    border:2px solid black;
+    border-radius:10px;
+    
+}
+
+
+.from-to{
+    background-color: rgb(217, 217, 217);
+    width: 480px;
+    height: 75px;
+    margin-left: 680px;
+    margin-top: 10px;
+    border:2px solid black;
+    border-radius:20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+h2{
+    margin-left: 870px;
+}
+
+.innumber{
+    margin-top: 80px;
+    text-align: center;
+}
+
+/* .all-inputs{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+} */
